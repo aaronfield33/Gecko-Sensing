@@ -17,8 +17,8 @@ const char* WIFI_PASS = "123456679";
 
 // Losant credentials.
 const char* LOSANT_DEVICE_ID = "5f9b04935a36a500063d54ed";
-const char* LOSANT_ACCESS_KEY = "c388c3b6-a8b3-411d-89f2-837c130083b7";
-const char* LOSANT_ACCESS_SECRET = "581ea57169367808bcd1fcc353391424440f4b847ce6e0c05d20ba709a4190f0";
+const char* LOSANT_ACCESS_KEY = "*******";
+const char* LOSANT_ACCESS_SECRET = "*******";
 
 DHT dht1(D2, DHT22);
 DHT dht2(D3, DHT22);
