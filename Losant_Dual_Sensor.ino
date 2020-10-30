@@ -12,8 +12,8 @@ DHT dht2(D3, DHT22);
 
 // Losant credentials.
 const char* LOSANT_DEVICE_ID = "ESP-12";
-const char* LOSANT_ACCESS_KEY = "c388c3b6-a8b3-411d-89f2-837c130083b7";
-const char* LOSANT_ACCESS_SECRET = "581ea57169367808bcd1fcc353391424440f4b847ce6e0c05d20ba709a4190f0";
+const char* LOSANT_ACCESS_KEY = "*******";
+const char* LOSANT_ACCESS_SECRET = "*******";
 
 WiFiClientSecure wifiClient;
 
